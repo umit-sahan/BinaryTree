@@ -30,4 +30,4 @@ Zamansal Analiz Süresi -> T(n)’dir.
 
 Github linki : https://github.com/King-Ra/BinaryTree
 
-Video Linki : https://www.youtube.com/watch?v=duMEBCFk-9Q
+Video Linki : https://www.youtube.com/watch?v=KjuwHUOTf4M
