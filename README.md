@@ -6,7 +6,8 @@ Bilgisayar Mühendisliği Fakültesi
 
 Veri Yapıları Dersi
 
-II. Ödev Konusu C Kodlama Dosyasındaki Girintilerin Ayarlanması
+IV. Ödev KonusuAğaçtan düğüm silen yazılım
+
 
 Tarih: 18.01.2021
 
