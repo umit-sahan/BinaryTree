@@ -19,7 +19,7 @@ Tarih: 18.01.2021
 
 Problemin Tanımı
 
-Binary ağaçta node silmeyi sağlayan fonksiyon yazılmıştır.Bu projeyi geliştirirken Python programlama dili kullanılmıştır.
+Binary ağaçta silinmek istenen düğümü silmeye yarayan fonksiyon yazılmıştır.Bu projeyi geliştirirken Python programlama dili kullanılmıştır.
 Not:  Derste gösterilen diğer fonksiyonları da içerir.
 
 Algoritma Analizi ve Sonuçlar
