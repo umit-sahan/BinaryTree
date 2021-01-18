@@ -35,7 +35,7 @@ class Node:
             return None # Bos deger doner.
         if data < self.data: # Eger silmek istenilen node'un degeri kucukse sola dogru gidilerek bulunur.
             self.left = self.left.delete(data)
-        elif data > self.data: # Eger silmek istenilen node'un degeri kucukse saga dogru gidilerek bulunur.
+        elif data > self.data: # Eger silmek istenilen node'un degeri buyukse saga dogru gidilerek bulunur.
             self.right = self.right.delete(data)
         else: # Tek cocuklu dugumu siliyor.
             if self.left is None: 
