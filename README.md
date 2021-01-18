@@ -6,9 +6,7 @@ Bilgisayar Mühendisliği Fakültesi
 
 Veri Yapıları Dersi
 
-IV. Ödev Konusu
-
-Ağaçtan düğüm silen yazılım
+IV. Ödev Konusu Ağaçtan düğüm silen yazılım
 
 
 Tarih: 18.01.2021
