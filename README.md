@@ -28,6 +28,6 @@ Proje Karmaşıklığı -> O(n) ‘dir.
 
 Zamansal Analiz Süresi -> T(n)’dir.
 
-Github linki : https://github.com/King-Ra/BinaryTree
+Github linki : https://github.com/umit-sahan/BinaryTree
 
 Video Linki : https://www.youtube.com/watch?v=KjuwHUOTf4M
